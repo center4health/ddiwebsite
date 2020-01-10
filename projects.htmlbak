@@ -1,0 +1,392 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="/manifest.json?v=E66eWA8NPK">
+<link rel="mask-icon" href="images/logo.png" color="#68c8c6">
+<link rel="shortcut icon" href="/favicon.ico?v=E66eWA8NPK">
+<meta name="theme-color" content="#ffffff">
+<title>C4H - Center for Health, UC San Diego</title>
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/custom.css">
+<script src="https://use.typekit.net/zyh8cal.js"></script>
+<script src="https://use.fontawesome.com/5fa2256a57.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+
+<body id="" class="programs">
+
+<!-- Navigation -->
+<nav class="navbar navbar-fixed-top">
+	<div id="mainmenu" class="collapse">
+
+		<div class="container">
+ 		<div id="menu-desktop" class="row hidden-xs">
+			<div class="">
+				<div class="padin nav-align">
+					<h3><a href="index.html">Home</a></h3>
+					<!--<h3><a href="about.html">Who We Are</a></h3>-->
+					<h3><a href="approach.html">Our Approach</a></h3>
+					<h3><a href="projects.html">What We Do</a></h3>
+					<h3><a href="contact.html">Contact</a></h3>
+				</div>
+			</div>
+		</div>
+		<div id="menu-mobile" class="row visible-xs-block" role="navigation">
+				<div class="col-sm-12 nav-align" >
+					<h3><a href="index.html">Home</a></h3>
+					<!--<h3><a href="about.html">Who We Are</a></h3>-->
+					<h3><a href="approach.html">Our Approach</a></h3>
+					<h3><a href="projects.html">What We Do</a></h3>
+					<h3><a href="contact.html">Contact</a></h3>
+				</div>
+		</div>
+		</div>
+</div>
+
+<div id="header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button class="hamburger hamburger-htx" data-toggle="collapse" data-target="#mainmenu" aria-expanded="false" aria-controls="mainmenu">
+			<span></span>
+			</button>
+			<a class="navbar-brand" href="index.html">C4H</a>
+		</div>
+	</div>
+</div>
+</nav>
+
+    
+
+
+<div class="vcenterparent">
+  <div class="jumbotron vcenter tinted parallax headerimage" style="background-image:url('images/subheader-3.jpg')">
+    <!--<div class="col-xxs-6 col-xs-4 col-sm-2"><img src="" class="img-responsive" /></div>-->
+    <h2 class="hidden-xxs">What We Do</h2>
+  </div>
+</div>
+
+
+
+<div class="block">
+  <div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+          <div class="blockhead">
+            <h3 class="visible-xxs">What We Do</h3>
+            <h4><strong>Don’t Drop the Patient</strong> </h4>
+          </div>
+
+          <p>Healthcare is increasingly fragmented as patients shuttle between clinics, hospitals, and their own homes to receive the most appropriate and cost-effective care. As patients move between contexts, gaps in care, errors, and miscommunication often occur. We are studying how to reduce these adverse events by building tools that help patients and providers maintain *cognitive continuity*. To us cognitive continuity means everyone on the care team (patients included) appropriately understands the patient’s condition, the care being provided, and reasoning behind that care. In that vein we are studying how to help patients transition in and out of hospitals: on the one hand developing tools to help clinicians rapidly review their colleagues’ notes to understand the patient’s past care, and on the other developing tools to facilitate discussions between patients and providers as they return home.</p>
+
+
+
+
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="projects">
+
+      
+      
+  <div class="jumbotron" style="background-image:url('images/bg-project-kidprint2.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5">
+        
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Identity (Kidprint)</h6>
+                <div class="dash2"></div>
+                <h3>Asking the First Question</h3>
+                <p> There is a pressing need for reliable methods to identify infants for vaccine delivery and health record access, particularly when primary caregivers are unavailable.  </p>
+                <a href="kidprint.html" class="button button2 invert">Learn More </a>
+              </div>
+            </div>
+          </div>
+      
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Identity (Kidprint)</h6>
+      <div class="dash"></div>
+      <h3>Asking the First Question</h3>
+      <p> There is a pressing need for reliable methods to identify infants for vaccine delivery and health record access, particularly when primary caregivers are unavailable.  </p>
+      <a href="kidprint.html" class="button invert">View Project </a>
+    </div>
+  </div>
+
+      
+  <div class="jumbotron" style="background-image:url('images/bg-project-trust.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5 col-md-offset-7">
+       
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Trust</h6>
+                <div class="dash"></div>
+                <h3>Technology as Trusted Partner</h3>
+                <p>A diabetic woman who was asked recently about autonomous glucose management systems responded that she wasn't the least bit interested, didn't trust them, and preferred being in control. </p>
+                <a href="trust.html" class="button invert">View Project</a>
+              </div>
+            </div>
+          </div>
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Trust</h6>
+      <div class="dash"></div>
+       <h3>Technology as Trusted Partner</h3>
+      <p>A diabetic woman who was asked recently about autonomous glucose management systems responded that she wasn't the least bit interested, didn't trust them, and preferred being in control. </p>
+      <a href="trust.html" class="button invert">View Project</a>
+    </div>
+  </div>
+
+      
+  <div class="jumbotron" style="background-image:url('images/bg-project-temp2.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5">
+       
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Aging </h6>
+                <div class="dash2"></div>
+                <h3>Making Aging an Aspiration</h3>
+                <p>Changing demographics in the US over the next several decades will place new demands on our healthcare system. </p>
+                <a href="aging.html" class="button button2 invert">Learn More </a>
+              </div>
+            </div>
+          </div>
+     
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Aging </h6>
+      <div class="dash"></div>
+       <h3>Making Aging an Aspiration</h3>
+      <p>Changing demographics in the US over the next several decades will place new demands on our healthcare system. </p>
+      <a href="aging.html" class="button invert">View Project </a>
+    </div>
+  </div>
+
+           
+  <div class="jumbotron" style="background-image:url('images/bg-project-cognitive.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5 col-md-offset-7">
+        
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Cognitive Assistance</h6>
+                <div class="dash"></div>
+                <h3>Supporting a Continuously Learning Health System</h3>
+                <p>Healthcare is a complex sociotechnical system and while current systems better integrate with existing technology they struggle to integrate with the workflow. </p>
+                <a href="cognitive-assistance.html" class="button invert">View Project</a>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Cognitive Assistance</h6>
+      <div class="dash"></div>
+       <h3>Supporting a Continuously Learning Health System</h3>
+      <p>Healthcare is a complex sociotechnical system and while current systems better integrate with existing technology they struggle to integrate with the workflow.  </p>
+      <a href="cognitive-assistance.html" class="button invert">View Project</a>
+    </div>
+  </div>
+
+      
+  <div class="jumbotron" style="background-image:url('images/bg-project-bacteria.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5">
+      
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Antibiotic Stewardship </h6>
+                <div class="dash2"></div>
+                <h3>Fighting Antibiotic Resistance with a New Antibiogram</h3>
+                <p>Inappropriate antibiotic use is a significant problem in healthcare. The CDC estimated in 2013 that 2,049,442 illnesses and over 23,000 deaths were caused by antibiotic resistance.</p>
+                <a href="antibiotic.html" class="button button2 invert">Learn More </a>
+              </div>
+            </div>
+          </div>
+      
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Antibiotic Stewardship </h6>
+      <div class="dash"></div>
+      <h3>Fighting Antibiotic Resistance with a New Antibiogram</h3>
+      <p>Inappropriate antibiotic use is a significant problem in healthcare. The CDC estimated in 2013 that 2,049,442 illnesses and over 23,000 deaths were caused by antibiotic resistance.</p>
+      <a href="antibiotic.html" class="button invert">View Project </a>
+    </div>
+  </div>
+
+     
+       <div class="jumbotron" style="background-image:url('images/bg-project-ls.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5 col-md-offset-7">
+        
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Insight</h6>
+                <div class="dash"></div>
+                 <h3>The Future of Health Data Fusion</h3>
+                <p>Inspired by Larry Smarr’s personal healthcare journey, GE Healthcare, CalIT2 and the UCSD Design Lab are exploring future-oriented imaging and intervention paradigms that assimilate new technology with human-centered design processes. </p>
+                <a href="insight.html" class="button invert">View Project</a>
+              </div>
+            </div>
+          </div>
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Insight</h6>
+      <div class="dash"></div>
+      <h3>The Future of Health Data Fusion</h3>
+      <p>Inspired by Larry Smarr’s personal healthcare journey, GE Healthcare, CalIT2 and the UCSD Design Lab are exploring future-oriented imaging and intervention paradigms that assimilate new technology with human-centered design processes.  </p>
+      <a  href="insight.html" class="button invert">View Project</a>
+    </div>
+  </div>
+
+      
+  <div class="jumbotron" style="background-image:url('images/bg-project-ar.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5">
+       
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: Augmented Reality and Ubiscope </h6>
+                <div class="dash2"></div>
+                <h3>Ubiquitous Computing for Assistive Technology &amp; Healthcare</h3>
+                <p>Current interactive, ubiquitous and wearable technology has the potential to revolutionize patient care and improve quality of life by assisting people in need. </p>
+                <a href="http://ubicomp.ucsd.edu/people/weibel/" target="_blank" class="button button2 invert">Learn More </a>
+              </div>
+            </div>
+          </div>
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: Augmented Reality and Ubiscope </h6>
+      <div class="dash"></div>
+      <h3>Ubiquitous Computing for Assistive Technology &amp; Healthcare</h3>
+      <p>Current interactive, ubiquitous and wearable technology has the potential to revolutionize patient care and improve quality of life by assisting people in need. </p>
+      <a href="http://ubicomp.ucsd.edu/people/weibel/" target="_blank" class="button invert">View Project </a>
+    </div>
+  </div>
+
+     
+     <div class="jumbotron" style="background-image:url('images/bg-project-designhub.jpg')">
+    <div class="container hidden-xs hidden-sm">
+      <div class="col-xs-12 projectitem projectdescription col-md-5 col-md-offset-7">
+        
+          <div class="square">
+            <div class="box black vcenter">
+              <div class="caption">
+                <h6>Project: The Health Design Hub</h6>
+                <div class="dash"></div>
+                <h3>Designing a Culture of Health</h3>
+                <p>We propose to flip the innovation story from ‘makers’ benefiting ‘citizens’ to citizens and makers teaming up to solve problems together. </p>
+                <a href="health-design-hub.html" class="button invert">View Project</a>
+              </div>
+            </div>
+          </div>
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="black bar visible-xs-block visible-sm-block hidden-md hidden-lg">
+    <div class="container">
+      <h6>Project: The Health Design Hub</h6>
+      <div class="dash"></div>
+      <h3>Designing a Culture of Health</h3>
+      <p>We propose to flip the innovation story from ‘makers’ benefiting ‘citizens’ to citizens and makers teaming up to solve problems together.  </p>
+      <a href="health-design-hub.html" class="button invert">View Project</a>
+    </div>
+  </div>
+      
+</div>
+
+
+
+            
+
+
+
+
+<footer class="greyblock">
+	<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<div><p><a href="index.html">Home</a> . <a href="approach.html">Our Approach</a> . <a href="projects.html">What We Do</a> . <a href="contact.html">Contact</a><br>
+				Copyright 2017 Center For Health | All Rights Reserved	</p></div>
+		</div>
+		<div class="col-md-4">
+			<div><a href="index.html" class="logo"></a></div>
+		</div>
+		
+	</div> 
+	</div> 
+</footer>
+
+
+    <div id="video-modal" class="modal fade video" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body"></div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+    
+    
+    <script>
+      var m = document.getElementById('video-modal'); 
+      var s = document.createElement('script');
+      s.setAttribute('src', 'js/bundle.js?_=' + Math.random());
+      document.body.insertBefore(s, m);
+    </script>
+
+    <!--<script src="/assets/js/bundle.js" defer></script>-->
+
+	</body>
+</html>
+
