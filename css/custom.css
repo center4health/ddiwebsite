@@ -36,9 +36,9 @@ footer a.logo {
     display: block;
     text-indent: -9999px;
     background: url(../images/logo-footer.png) no-repeat;
-    width: 158px;
+    width: 230px;
 	float:right;
-    height: 99px;
+    height: 100px;
 }
 
 footer p {font-size:14px!important; font-family: LineToCircular-Bold, "Helvetica Neue Bold", "Helvetica Bold", sans-serif; margin-top:10px; }
