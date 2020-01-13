@@ -11400,7 +11400,7 @@ nav {
 }
 
 #mainmenu {
-    background-color: #dfdfdf
+    background-color: #fff;
 }
 
 #mainmenu .container {
@@ -11691,7 +11691,7 @@ body#perspectives #filters .block a {
 }
 
 .greyblock {
-    background-color: #F1F0EE
+    background-color: #F1F0EE;
 }
 
 #aquablock, #aquapaleblock {
@@ -11937,7 +11937,7 @@ body#perspectives #filters .jumbotron.black a, body#perspectives #filters .squar
 .grid .overlay_black .box.white, .grid .overlay_hover .box.white,
 .grid .overlay_white .box.white, .grid .tall .box.white, .grid .wide .box.white,
 .overlaybox, .project .box.white, .square .box.white {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .grid .overlay_black .box.white .page_content h5, .grid .overlay_black .box.white h4,
@@ -14260,7 +14260,7 @@ body#home .carousel .fill {
 }
 
 body#home .block#approach {
-    padding-bottom: 7rem;
+    padding-bottom: 2rem;
     padding-top: 3rem
 }
 
@@ -15908,8 +15908,7 @@ body#home .slideshow .item .caption h6 {
     }
 
     .block h5 {
-        font-size: 15px;
-        font-size: 1.5rem
+        font-size: 2rem
     }
 
     .blockhead .page_content h5, .blockhead h3, .blockhead h4, .page_content .blockhead h5 {

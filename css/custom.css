@@ -32,6 +32,7 @@ background-color: #ec008c;}
 
 .grn {color:#30cea3!important;}
 
+
 footer a.logo {
     display: block;
     text-indent: -9999px;
@@ -56,12 +57,18 @@ p {
 
 .project .box p {text-align:justify;}
 
+.navbar{
+    background-color: white;
+}
+
 .navbar-brand {
     background: url(../images/logo.png) no-repeat;
     text-indent: -9999px;
     height: 45px;
-	margin-top:-5px!important;
+	margin-top:-10px!important;
+    margin-left:5px;
    width: 265px;
+    
 }
 
 
