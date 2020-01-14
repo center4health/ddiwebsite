@@ -11591,11 +11591,10 @@ body#perspectives #filters .block a {
 }
 
 .block .page_content h5, .block h4, .page_content .block h5 {
-    padding-bottom: 5rem
 }
 
 .block.subheadblock {
-    padding: 0
+    padding: 0;
 }
 
 .page_content .carousel, .page_content .contentblock, .page_content .video {
@@ -11687,7 +11686,7 @@ body#perspectives #filters .block a {
 .blockhead .page_content h5, .blockhead h4, .page_content .blockhead h5 {
     font-size: 31px;
     font-size: 3.1rem;
-    padding-bottom: 2.5rem
+    margin-bottom: 2rem;
 }
 
 .greyblock {
